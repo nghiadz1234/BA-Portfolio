@@ -150,7 +150,6 @@ TaskFlow/
 │   ├── Project_Detail.png
 │   ├── Task_Management.png
 │   ├── Create_Task_Popup.png
-│   ├── My_Tasks.png
 │   └── Reports_Dashboard.png
 │
 ├── 06_Test_Cases/
